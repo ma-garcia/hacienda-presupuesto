@@ -125,7 +125,7 @@
       "@type" : "http://www.w3.org/2001/XMLSchema#float"
     },
     "title" : {
-      "@id" : "http://purl.org/dc/elements/1.1/title"
+      "@id" : "http://purl.org/dc/terms/title"
     },
     "type" : {
       "@id" : "http://purl.org/dc/terms/type",
@@ -188,6 +188,9 @@
     },
     "GrupoClasificacionEconomica" : {
       "@id" : "http://vocab.linkeddata.es/datosabiertos/def/hacienda/presupuesto#GrupoClasificacionEconomica"
+    },
+    "description" : {
+      "@id" : "http://purl.org/dc/terms/description"
     },
     "preferredNamespaceUri" : {
       "@id" : "http://purl.org/vocab/vann/preferredNamespaceUri"
